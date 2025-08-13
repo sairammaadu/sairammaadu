@@ -68,19 +68,6 @@ Corporate website showcasing Datavalley’s services, blogs, and internship prog
 ----
 
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" height="180px" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" height="180px" />
-
-</div>
-
----
-
 ## 📬 Connect With Me  
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sairammaadu@gmail.com)
