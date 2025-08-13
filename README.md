@@ -63,6 +63,39 @@ Corporate website showcasing Datavalley’s services, blogs, and internship prog
 - Responsive Design – Works smoothly on desktops, tablets, and mobiles.
 - Fast Performance – Optimized loading speed for a better user experience.
 - SEO Friendly – Structured for higher search engine visibility.
-- Secure & Reliable – HTTPS, data encryption, and regular backups.  
+- Secure & Reliable – HTTPS, data encryption, and regular backups.
+  
+----
+
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" height="180px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" height="180px" />
+
+</div>
+
+---
+
+## 📬 Connect With Me  
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sairammaadu@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-ram-maadu-7005b729b/)
+
+
+---
+
+## 🌐 Languages  
+
+- **English** (Professional)  
+- **Telugu** (Native)  
+- **Hindi, Tamil** (Conversational)  
+
+---
+
 
 
