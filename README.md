@@ -47,10 +47,10 @@ Dynamic certificate generation platform for internships, allowing real-time cust
 Interactive learning platform with live classes, quizzes, and assignment management for students and instructors.  
 
 **Key Features:**  
-- Live quizzes, assignments, and interactive course content  
-- Admin dashboard for batch, course, and user management  
-- AI-generated assignments and Wasabi cloud storage integration  
-- Fully responsive UI for mobile and desktop  
+- Course Management – Easily create, organize, and update learning content.
+- Progress Tracking – Monitor learner performance with detailed reports.
+- Interactive Tools – Quizzes, discussions, and live classes for engagement.
+- Role-Based Access – Manage permissions for students, teachers, and admins
 
 ---
 
@@ -60,9 +60,9 @@ Interactive learning platform with live classes, quizzes, and assignment managem
 Corporate website showcasing Datavalley’s services, blogs, and internship programs with an SEO-optimized, responsive design.  
 
 **Key Features:**  
-- Dynamic content management with MERN stack  
-- SEO-friendly architecture for better search rankings  
-- Integrated blog system and internship registration  
-- Fully responsive design optimized for performance  
+- Responsive Design – Works smoothly on desktops, tablets, and mobiles.
+- Fast Performance – Optimized loading speed for a better user experience.
+- SEO Friendly – Structured for higher search engine visibility.
+- Secure & Reliable – HTTPS, data encryption, and regular backups.  
 
 
