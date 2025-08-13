@@ -9,7 +9,7 @@
 
 ## 🔍 About Me
 - 💼 **Current Role:** Full-Stack Developer @ Datavalley India Pvt Ltd  
-- 🚀 **Focus:** Building scalable web apps with **Next.js, MERN Stack, Docker, & AWS**  
+- 🚀 **Focus:** Building scalable web apps with **Next.js, MERN Stack**  
 - 📚 **Learning:** Advanced Docker, Microservices, Testing Strategies  
 - ❤️ **Passion:** Solving complex problems with clean, maintainable code  
 
